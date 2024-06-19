@@ -12,8 +12,8 @@ This script automates the process of posting on Hoyolab using `pyautogui`. It id
 1. **Clone the repository or download the script:**
 
     ```bash
-    git clone https://github.com/yourusername/hoyolab-automation.git
-    cd hoyolab-automation
+    git clone https://github.com/yourusername/hoyolab-autoposting.git
+    cd hoyolab-autoposting
     ```
 
 2. **Install the required Python package:**
